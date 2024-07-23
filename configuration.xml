@@ -1,0 +1,16 @@
+<Configuration ID="e29792df-c3fb-47b0-af1d-3e0167dfd24e">
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="O365BusinessEEANoTeamsRetail">
+      <Language ID="it-it" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="PowerPoint" />
+      <ExcludeApp ID="Publisher" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
